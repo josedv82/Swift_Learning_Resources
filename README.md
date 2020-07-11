@@ -13,7 +13,8 @@ Topics that are covered in this document:
  
 
 ## 1. Swift Syntax
-- [SWIFT Website](https://swift.org/) Official swift website. Recommend to visit it to get a background of the language. Worth exploring their [guided tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html#//apple_ref/doc/uid/TP40014097-CH2-ID1) before getting started.
+- [SWIFT Website](https://swift.org/) Official swift website. Recommend to visit it to get a background of the language. Worth exploring their [guided tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html#//apple_ref/doc/uid/TP40014097-CH2-ID1) before getting started.  
+  
 - [Learn Swift](https://www.codecademy.com/learn/learn-swift) I took this course on codeacademy to start getting familiar with the language. It has a good mix of explanations anf practical challenges. Some of the concepts apply to other languages, such as declaring variables, arrays, dictionaries, for loops, if else logic, etc. But it was good to revisit.
 
 
@@ -25,8 +26,10 @@ another one in the future (...mind you, learning never stops...). Resources I us
 
 - [SwiftUI tutorials by apple](https://developer.apple.com/tutorials/swiftui) This is a very well designed guided tour taking readers through the basics aof building an app from scratch. Ideally, you would follow along the tutorial while actually coding the app. It touched on a lot of things that you will see in many common apps.
 It says that it takes about 4.5h to complete the tutorial. My experience here is, if you really want to understand the concepts, repeat each part of the tutorial 2 or 3 times, relying less on the help each time. Overall I can say I spent over 20hrs on this easily.
+  
 - [SwiftUI by example](https://www.hackingwithswift.com/quick-start/swiftui) This is a great website by Paul Hudson I found with lots of useful resources. I wish I had found it sooner. The **SwiftUI by Example** tutorials combined short and easy-to-follow explanations along with Paul's short explanation videos. Content wise it is very similar
 to the SwiftUI tutorials, but I found this one easier to follow. I'd probably say better to do this one before the SwiftUI tutorials.
+  
 - [Learn SwiftUI APP](https://apps.apple.com/us/app/learn-swiftui/id1467598599) I really this app. It has more than fifty tutorials that progress in complexity that you can do directly from your phone. It is a guided tutorial and for me it was a good first introduction. From here I went to the other two resources above.
 
 
@@ -35,6 +38,7 @@ to the SwiftUI tutorials, but I found this one easier to follow. I'd probably sa
 Xcode is the IDE where apps are code. As of last week, I am currently running the 11.5 version. Resouces I used to get my started:
 
 - [Xcode Apple guide](https://help.apple.com/xcode/mac/current/) Worth browsing through it. It is a very thorough document I still check if I need to.
+  
 - [Xcode Tutorial for beginners](https://codewithchris.com/xcode-tutorial/) I found this one really helpful, short and easy to follow. Definitely recommend checking it out as well as the whole
 website by Chris Ching
 
