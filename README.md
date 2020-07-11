@@ -12,7 +12,7 @@ Topics that are covered in this document:
 
 - Introduction to Swift Syntax and basic programming concepts
 - Familiarity with Xcode (IOS IDE)
-- SwiftUI Concept
+- Learning SwiftUI
 - Finding help / Answers questions
  
 
@@ -22,7 +22,7 @@ Topics that are covered in this document:
 - [Learn Swift](https://www.codecademy.com/learn/learn-swift) I took this course on codeacademy to start getting familiar with the language. It has a good mix of explanations anf practical challenges. Some of the concepts apply to other languages, such as declaring variables, arrays, dictionaries, for loops, if else logic, etc. But it was good to revisit.
 
 
-## 2. SwiftUI
+## 2. Learning SwiftUI
 SwiftUI is a relatively new framework released by Apple. Traditionally, ios development has been done via interface builder and story boards and plain Swift on Xcode. If you read a little bit about it, many 
 would recommend learning that approach before jumping into SwiftUI. Since SwiftUI doesn't cover all the functionalities yet. So likely, there is a need to combine both in the short term. 
 My approach here was to focus on SwiftUI, and only go to UIkit when needed. Since I didn't have any initial background thought this was better moving forward rather than having to learn one approach now and
@@ -38,7 +38,7 @@ to the SwiftUI tutorials, but I found this one easier to follow. I'd probably sa
 
 
 
-## 3. Xcode
+## 3. Xcode IDE
 Xcode is the IDE where apps are code. As of last week, I am currently running the 11.5 version. Resouces I used to get my started:
 
 - [Xcode Apple guide](https://help.apple.com/xcode/mac/current/) Worth browsing through it. It is a very thorough document I still check if I need to.
