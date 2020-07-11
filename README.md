@@ -50,7 +50,7 @@ Specific to the sport audience I consider [Carlos Balsalobre](https://twitter.co
 
  # Final Note:
  
- This document is an expanded version of a previous [twitter thread I published](https://twitter.com/jfernandez__/status/1280913591546380288)
+ This document is an expanded version of a previous [Twitter thread](https://twitter.com/jfernandez__/status/1280913591546380288)
  
  <img width="350" src="https://www.dropbox.com/s/hzgax0axniswqfe/swift.png?raw=1">
  
