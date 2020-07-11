@@ -1,6 +1,5 @@
 # Swift Learning Resources
-The purpose of this document is to keep track of resources I am using (have used) to learn Swift programming. It is also intended to help those getting started on IOS development without any previous 
-Swift experience. 
+The purpose of this document is to keep track of resources I am using (have used) to learn Swift programming. It is also intended to help those getting started on IOS development without any previous Swift experience by sharing my approach. 
 
 ### Intro
 The below is not an in depth list of resources but a list of courses, websites and documents I have used for reference. More will be added as I continue exploring.
@@ -54,3 +53,5 @@ Specific to the sport audience I consider [Carlos Balsalobre](https://twitter.co
  This document is an expanded version of a previous [twitter thread I published](https://twitter.com/jfernandez__/status/1280913591546380288)
  
  <img width="350" src="https://www.dropbox.com/s/hzgax0axniswqfe/swift.png?raw=1">
+ 
+Definitely open to learn from others, how they go about this and what resources they found useful. I hope to update this page as I continue to learn more. Eventually with coding examples as well.
