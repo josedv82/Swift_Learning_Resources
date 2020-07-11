@@ -40,9 +40,7 @@ Xcode is the IDE where apps are code. As of last week, I am currently running th
 website by Chris Ching
 
 ## Forums / Help 
-After those 3 I felt I had enough to start coding on my own. When stuck or in doubt (like with any other language really) I use google,  check stackoverflow, apple developer forums and started following some siwft experts on twitter. 
-
-### Interesting people putting helpful content on twitter:
+After those 3 I felt I had enough to start coding on my own. When stuck or in doubt (like with any other language really) I use google,  check stackoverflow, apple developer forums and started following some people sharing a lot of interesting content on twitter. 
 
 - [Trailing Course](https://twitter.com/TrailingClosure)
 - [Paul Hudson](https://twitter.com/twostraws)
@@ -55,4 +53,4 @@ Specific to the sport audience I consider [Carlos Balsalobre](https://twitter.co
  
  This document is an expanded version of a previous [twitter thread I published](https://twitter.com/jfernandez__/status/1280913591546380288)
  
- [](https://www.dropbox.com/s/hzgax0axniswqfe/swift.png?raw=1)
+ <img width="350" src="https://www.dropbox.com/s/hzgax0axniswqfe/swift.png?raw=1">
