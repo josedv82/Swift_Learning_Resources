@@ -25,8 +25,10 @@ Topics that are covered in this document:
 ## 2. Learning SwiftUI
 SwiftUI is a relatively new framework released by Apple. Traditionally, ios development has been done via interface builder and story boards and plain Swift on Xcode. If you read a little bit about it, many 
 would recommend learning that approach before jumping into SwiftUI. Since SwiftUI doesn't cover all the functionalities yet. So likely, there is a need to combine both in the short term. 
-My approach here was to focus on SwiftUI, and only go to UIkit when needed. Since I didn't have any initial background thought this was better moving forward rather than having to learn one approach now and
-another one in the future (...mind you, learning never stops...). Resources I used for SwiftUI:
+My approach here was to focus on SwiftUI, and only go to UIkit when needed. Since I didn't have any previous background I thought this will be better moving forward rather than having to learn one approach now and
+another one in the future (...mind you, learning never stops...). 
+  
+Resources I used for SwiftUI:
 
 - [SwiftUI tutorials by apple](https://developer.apple.com/tutorials/swiftui) This is a very well designed guided tour taking readers through the basics of building an app from scratch. Ideally, you would follow along the tutorial while actually coding the app. It touches on a lot of elements and functionalities that you will see in many common apps.
 As a side note, It says that it takes about 4.5h to complete the tutorial. My experience here is, if you are new and really want to understand the concepts, repeat each part of the tutorial 2 or 3 times, doing it more independently each time. Overall I can say I spent over 20hrs on this easily.
