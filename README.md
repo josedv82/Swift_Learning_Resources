@@ -19,7 +19,7 @@ Topics that are covered in this document:
 
 
 ## 2. SwiftUI
-SwiftUI is a relatively new network released by Apple. Traditionally, ios development has been done via interface builder and story boards and plain Swift on Xcode. If you read a little bit about it, many 
+SwiftUI is a relatively new framework released by Apple. Traditionally, ios development has been done via interface builder and story boards and plain Swift on Xcode. If you read a little bit about it, many 
 would recommend learning that approach before jumping into SwiftUI. Since SwiftUI doesn't cover all the functionalities yet. So likely, there is a need to combine both in the short term. 
 My approach here was to focus on SwiftUI, and only go to UIkit when needed. Since I didn't have any initial background thought this was better moving forward rather than having to learn one approach now and
 another one in the future (...mind you, learning never stops...). Resources I used for SwiftUI:
