@@ -33,8 +33,8 @@ Resources I used for SwiftUI:
 - [SwiftUI tutorials by apple](https://developer.apple.com/tutorials/swiftui) This is a very well designed guided tour taking readers through the basics of building an app from scratch. Ideally, you would follow along the tutorial while actually coding the app. It touches on a lot of elements and functionalities that you will see in many common apps.
 As a side note, It says that it takes about 4.5h to complete the tutorial. My experience here is, if you are new and really want to understand the concepts, repeat each part of the tutorial 2 or 3 times, doing it more independently each time. Overall I can say I spent over 20hrs on this easily.
   
-- [SwiftUI by example](https://www.hackingwithswift.com/quick-start/swiftui) This is a great website by Paul Hudson I found with lots of useful resources. I wish I had found it sooner. The **SwiftUI by Example** tutorials combined short and easy-to-follow explanations along with Paul's short explanation videos. Content wise it is very similar
-to the SwiftUI tutorials, but I found this one easier to follow. I'd probably say better to do this one before the SwiftUI tutorials.
+- [SwiftUI by example](https://www.hackingwithswift.com/quick-start/swiftui) This is a great website by Paul Hudson I found with lots of useful resources. I wish I had found it sooner. The **SwiftUI by Example** tutorials combined short and easy-to-follow explanations along with Paul's short explanation videos. Content wise covers most of what is covered on 
+the SwiftUI tutorials, but I found this one easier to follow. I'd probably say better to do this one as long with the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) before the SwiftUI tutorials.
   
 - [Learn SwiftUI APP](https://apps.apple.com/us/app/learn-swiftui/id1467598599) I really liked this app. It has more than fifty short tutorials progressing in complexity that you can do directly from your phone. It is a guided tutorial and for me it was a good first introduction. From here I went to the other two resources above.
 
@@ -55,8 +55,11 @@ After those 3 I felt I was in a good spot to start trying things on my own. When
 - [Paul Hudson](https://twitter.com/twostraws)
 - [John Sundell](https://twitter.com/johnsundell)
 - [Chris Ching](https://twitter.com/CodeWithChris)
+- [Majid Jabrayilov](https://twitter.com/mecid)
+- [The SwiftUI Lab](https://twitter.com/SwiftUILab)
+- [Stewart Lynch](https://twitter.com/StewartLynch)
 
-Specific to the sport audience I consider [Carlos Balsalobre](https://twitter.com/cbalsalobre) a reference. He has created a lot of very populars and useful [apps](http://www.carlos-balsalobre.com/#apps)
+Specific to the sport audience I consider [Carlos Balsalobre](https://twitter.com/cbalsalobre) a reference. He has created a lot of very popular and useful [apps](http://www.carlos-balsalobre.com/#apps)
 
  # Final Note:
  
