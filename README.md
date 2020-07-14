@@ -59,7 +59,7 @@ After those 3 I felt I was in a good spot to start trying things on my own. When
 - [The SwiftUI Lab](https://twitter.com/SwiftUILab)
 - [Stewart Lynch](https://twitter.com/StewartLynch)
 
-*Some of the profiles mentioned above have websites with excellent courses and tutorials worth exploring.
+*Some of the profiles mentioned above have websites with excellent courses and tutorials worth exploring.*
 
 Specific to the sport audience I consider [Carlos Balsalobre](https://twitter.com/cbalsalobre) a reference. He has created a lot of very popular and useful [apps](http://www.carlos-balsalobre.com/#apps)
 
