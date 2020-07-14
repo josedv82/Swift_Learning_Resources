@@ -21,6 +21,8 @@ Topics that are covered in this document:
   
 - [Learn Swift](https://www.codecademy.com/learn/learn-swift) I took this course on codeacademy to start getting familiar with the language. It has a good mix of explanations anf practical challenges. Some of the concepts apply to other languages, such as declaring variables, arrays, dictionaries, for loops, if else logic, etc. But it was good to revisit.
 
+- [Unwrap APP](https://apps.apple.com/us/app/unwrap/id1440611372) by Paul Hudson. Really engaging app covering a lot of content on Swift along with activities, assessments, tasks, etc. I find this format very easy to stick with, even for short 20-30 mins sessions whenever I have some time.
+
 
 ## 2. Learning SwiftUI
 SwiftUI is a relatively new framework released by Apple. Traditionally, ios development has been done via interface builder and story boards and plain Swift on Xcode. If you read a little bit about it, many 
