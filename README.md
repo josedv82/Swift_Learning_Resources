@@ -36,14 +36,14 @@ Resources I used for SwiftUI:
 As a side note, It says that it takes about 4.5h to complete the tutorial. My experience here is, if you are new and really want to understand the concepts, repeat each part of the tutorial 2 or 3 times, doing it more independently each time. Overall I can say I spent over 20hrs on this easily. I wouldn't used this as a first resource as it can get relatively complex for beginners.
   
 - [SwiftUI by example](https://www.hackingwithswift.com/quick-start/swiftui) This is a great website by Paul Hudson I found with lots of useful resources. I wish I had found it sooner. The **SwiftUI by Example** tutorials combined short and easy-to-follow explanations along with Paul's short explanation videos. Content wise covers most of what is covered on 
-the SwiftUI tutorials, but I found this one easier to follow. I'd probably say better to do this one as long with the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) before the SwiftUI tutorials.
+the SwiftUI tutorials, but I found this one easier to follow. I'd probably say better to do this one along with the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) before the SwiftUI tutorials.
   
-- [Learn SwiftUI APP](https://apps.apple.com/us/app/learn-swiftui/id1467598599) I really liked this app. It has more than fifty short tutorials progressing in complexity that you can do directly from your phone. It is a guided tutorial and for me it was a good first introduction. From here I went to the other two resources above.
+- [Learn SwiftUI APP](https://apps.apple.com/us/app/learn-swiftui/id1467598599) I really liked this app. It has more than fifty short tutorials progressing in complexity that you can do directly from your phone. It is a guided tutorial and for me it was a good first introduction. From here I went to the other two resources above. It takes 2-3h top to complete all the tutorials.
 
 
 
 ## 3. Xcode IDE
-Xcode is the IDE where apps are code. As of last week, I am currently running the 11.5 version. Resouces I used to get my started:
+Xcode is the IDE where apps are coded. As of last week, I am currently running the 11.5 version. Resouces I used to get my started:
 
 - [Xcode Apple guide](https://help.apple.com/xcode/mac/current/) Worth browsing through it. It is a very thorough document I still check if I need to.
   
@@ -51,7 +51,7 @@ Xcode is the IDE where apps are code. As of last week, I am currently running th
 website by Chris Ching
 
 ## Forums / Help 
-After those 3 I felt I was in a good spot to start trying things on my own. When stuck or in doubt (like with any other language really) I use google,  check stackoverflow, apple developer forums and started following some people sharing a lot of interesting content on twitter. 
+After those 3 I felt I was in a good spot to start trying things on my own. When stuck or in doubt (like with any other language really) I use google,  post on stackoverflow and started following some people sharing a lot of interesting content on twitter. 
 
 - [Trailing Course](https://twitter.com/TrailingClosure)
 - [Paul Hudson](https://twitter.com/twostraws)
