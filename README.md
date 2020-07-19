@@ -33,7 +33,7 @@ another one in the future (...mind you, learning never stops...).
 Resources I used for SwiftUI:
 
 - [SwiftUI tutorials by apple](https://developer.apple.com/tutorials/swiftui) This is a very well designed guided tour taking readers through the basics of building an app from scratch. Ideally, you would follow along the tutorial while actually coding the app. It touches on a lot of elements and functionalities that you will see in many common apps.
-As a side note, It says that it takes about 4.5h to complete the tutorial. My experience here is, if you are new and really want to understand the concepts, repeat each part of the tutorial 2 or 3 times, doing it more independently each time. Overall I can say I spent over 20hrs on this easily.
+As a side note, It says that it takes about 4.5h to complete the tutorial. My experience here is, if you are new and really want to understand the concepts, repeat each part of the tutorial 2 or 3 times, doing it more independently each time. Overall I can say I spent over 20hrs on this easily. I wouldn't used this as a first resource as it can get relatively complex for beginners.
   
 - [SwiftUI by example](https://www.hackingwithswift.com/quick-start/swiftui) This is a great website by Paul Hudson I found with lots of useful resources. I wish I had found it sooner. The **SwiftUI by Example** tutorials combined short and easy-to-follow explanations along with Paul's short explanation videos. Content wise covers most of what is covered on 
 the SwiftUI tutorials, but I found this one easier to follow. I'd probably say better to do this one as long with the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) before the SwiftUI tutorials.
