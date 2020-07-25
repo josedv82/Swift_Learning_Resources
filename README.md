@@ -40,6 +40,8 @@ the SwiftUI tutorials, but I found this one easier to follow. I'd probably say b
   
 - [Learn SwiftUI APP](https://apps.apple.com/us/app/learn-swiftui/id1467598599) I really liked this app. It has more than fifty short tutorials progressing in complexity that you can do directly from your phone. It is a guided tutorial and for me it was a good first introduction. From here I went to the other two resources above. It takes 2-3h top to complete all the tutorials.
 
+- [Big Mountain Studio](https://www.bigmountainstudio.com/a/df0u0) Even with other languages where I have years of exprience I find myself searching for ideas and googling code examples that I can then reuse in my projects directly or after some adjustments. Mark Moeykens at **Big Mountain Studio** has put together a lot of resources combining visuals and code examples on swiftUI. You can read it like a normal traditional book but for me, these is more of an investment on resources that you can check over time. I will provide ideas and help save time down the road. 
+
 
 
 ## 3. Xcode IDE
@@ -60,6 +62,7 @@ After those 3 I felt I was in a good spot to start trying things on my own. When
 - [Majid Jabrayilov](https://twitter.com/mecid)
 - [The SwiftUI Lab](https://twitter.com/SwiftUILab)
 - [Stewart Lynch](https://twitter.com/StewartLynch)
+- [Mark Moeykens](https://twitter.com/BigMtnStudio)
 
 *Some of the profiles mentioned above have websites with excellent courses and tutorials worth exploring.*
 
