@@ -42,6 +42,8 @@ the SwiftUI tutorials, but I found this one easier to follow. I'd probably say b
 
 - [Big Mountain Studio](https://www.bigmountainstudio.com/a/df0u0) Even with other languages where I have years of exprience I find myself searching for ideas and googling code examples that I can then reuse in my projects directly or after some adjustments. Mark Moeykens at **Big Mountain Studio** has put together a lot of resources combining visuals and code examples on swiftUI. You can read it like a normal traditional book but for me, these is more of an investment on resources that you can check over time. I will provide ideas and help save time down the road. 
 
+- [FuckingSwiftUI](https://fuckingswiftui.com/) If you think the tile is a bit aggressive :) , [here is another link](https://goshdarnswiftui.com/) to the same page under a more user friendly name. In summary, a useful cheatsheet with resources and keywords related to swiftUI, including some minimal code examples by [@Sarun](https://twitter.com/sarunw)
+
 
 
 ## 3. Xcode IDE
