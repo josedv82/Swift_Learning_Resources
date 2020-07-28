@@ -49,12 +49,14 @@ the SwiftUI tutorials, but I found this one easier to follow. I'd probably say b
 
 
 ## 3. Xcode IDE
-Xcode is the IDE where apps are coded. As of last week, I am currently running the 11.5 version. Resouces I used to get my started:
+Xcode is the IDE where apps are coded. As of last week, I am currently running the 11.6 version. Resources I used to get started:
 
 - [Xcode Apple guide](https://help.apple.com/xcode/mac/current/) Worth browsing through it. It is a very thorough document I still check if I need to.
   
 - [Xcode Tutorial for beginners](https://codewithchris.com/xcode-tutorial/) I found this one really helpful, short and easy to follow. Definitely recommend checking it out as well as the whole
 website by Chris Ching
+
+I didn't spend much time here. In my opinion, familiarity with Xcode comes naturally if you follow some of the resrouces mentioned above to learn SwiftUI.
 
 ## Forums / Help 
 After those 3 I felt I was in a good spot to start trying things on my own. When stuck or in doubt (like with any other language really) I use google,  post on stackoverflow and started following some people sharing a lot of interesting content on twitter. 
