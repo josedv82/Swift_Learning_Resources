@@ -49,7 +49,7 @@ the SwiftUI tutorials, but I found this one easier to follow. I'd probably say b
 
 - [Sergio Becerril Youtube Channel](https://www.youtube.com/sergiobecerril) For those searching for content in Spanish, Sergio has a channel with some videos of SwiftUI. He does a great job at explaining SwiftUI concepts and creating engaging and easy-to-follow videos.
 
-
+Finally, this [compilation of resources, links and publications](https://github.com/Juanpe/About-SwiftUI) by [JuanPe Catalan](https://twitter.com/JuanpeCatalan) is a must visit. There are tones of links here and while I haven't checked all of them, it is a good guide to stay on top or articles and news regarding swiftUI. 
 
 ## 3. Xcode IDE
 Xcode is the IDE where apps are coded. As of last week, I am currently running the 11.6 version. Resources I used to get started:
