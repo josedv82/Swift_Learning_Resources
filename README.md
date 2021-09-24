@@ -84,6 +84,6 @@ Specific to the sport audience I consider [Carlos Balsalobre](https://twitter.co
  
  This document is an expanded version of a previous [Twitter thread](https://twitter.com/jfernandez__/status/1280913591546380288)
  
- <img width="350" src="https://www.dropbox.com/s/hzgax0axniswqfe/swift.png?raw=1">
+ <img width="350" src="https://www.dropbox.com/s/2af9z459i0qu9ua/swift.png?raw=1">
  
 Definitely open to learn from others, how they go about this and what resources they found useful. I hope to update this page as I continue to learn more. Eventually with coding examples as well.
